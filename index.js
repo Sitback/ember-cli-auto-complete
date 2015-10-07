@@ -5,4 +5,9 @@ var path = require('path');
 
 module.exports = {
     name: 'ember-cli-auto-complete',
+    if (app.app) {
+        app = app.app;
+    }
+    this.app = app;
+    app.import(path.join('vendor', 'auto-complete.css'));
 };
