@@ -147,6 +147,7 @@ Copyright © 2015 Toran Billups http://toranbillups.com
 
 Licensed under the MIT License
 
+
 [Build Status]: https://travis-ci.org/toranb/ember-cli-auto-complete.svg?branch=master
 [ember-cli]: http://www.ember-cli.com/
 [ember.js]: http://emberjs.com/
